@@ -90,7 +90,7 @@ int main(){
     //output
     cout << "******************************" << endl << endl;
     cout << "Customer Name => " << customerName << endl;
-    cout << "Payment => " << pay.NetPay() << " $" << endl << endl;
+    cout << "Payment => Kshs. " << pay.NetPay() << endl << endl;
     cout << "******************************" << endl;
 
     cin.get();
